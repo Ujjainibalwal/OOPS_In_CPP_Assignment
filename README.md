@@ -49,7 +49,7 @@ IDE: (VS Code / IntelliJ / CodeBlocks / etc.)
 
 Clone the repository:
 
-git clone https://github.com/dewangdhakad/OOPS_IN_Cpp_Assignments.git
+git clone https://github.com/Ujjainibalwal/OOPS_In_CPP_Assignment.git
 
 Open the project in your IDE
 
